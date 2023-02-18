@@ -1,0 +1,16 @@
+.purple-button{
+    appearance: none;
+    background: #4338ca;
+    border: 0;
+    border-radius: 0.5rem;
+    color: #fff;
+    cursor: pointer;
+    font: inherit;
+    font-weight: 500;
+    line-height: 1;
+    padding: 0.7em 1em;
+  }
+
+  .hidden{
+    display: none;
+  }
